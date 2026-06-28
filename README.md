@@ -40,14 +40,6 @@ I am an **Information Systems Engineering** student (4th year) at UTN-FRC, curre
 
 *   **[Personal Portfolio](https://guillermo-ostermann.vercel.app/)**
     *   A fully responsive portfolio built with React, Vite, and Tailwind CSS. Implemented `react-i18next` for seamless English/Spanish internationalization. Deployed on Vercel.
-*   **Digital Wallet Expense Tracker**
-    *   Full-stack application designed to track and manage personal expenses across different digital wallets.
-*   **CodeGarden (MVP Concept)**
-    *   Platform logic and business model designed to connect Junior and Senior developers for collaborative growth.
-*   **Java Algorithms & Interview Prep**
-    *   Collection of optimized problem-solving scripts (FizzBuzz, Roman Numeral Converters) focusing on logic and time complexity.
-
----
 
 ### 📫 How to reach me:
 
