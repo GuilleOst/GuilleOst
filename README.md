@@ -1,4 +1,4 @@
-# Hi there, I'm Guillermo Ostermann 👋
+# Hi there, I'm Guillermo Ostermann
 
 ### Junior Full-Stack Developer | Cybersecurity Enthusiast
 
@@ -51,5 +51,5 @@ I am an **Information Systems Engineering** student (4th year) at UTN-FRC, curre
 
 ### 📫 How to reach me:
 
-*   💼 **LinkedIn:** [Añade aquí tu link de LinkedIn]
-*   📧 **Email:** [Añade aquí tu correo electrónico]
+*   💼 **LinkedIn:** https://www.linkedin.com/in/guillermo-ostermann/
+*   📧 **Email:** guilleostermann@gmail.com
